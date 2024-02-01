@@ -15,27 +15,27 @@
     ]
   },
   "dependencies": {
-    "@angular/animations": "^17.0.7",
-    "@angular/common": "^17.0.7",
-    "@angular/compiler": "^17.0.7",
-    "@angular/core": "^17.0.7",
-    "@angular/forms": "^17.0.7",
-    "@angular/platform-browser": "^17.0.7",
-    "@angular/platform-browser-dynamic": "^17.0.7",
-    "@angular/router": "^17.0.7",
+    "@angular/animations": "^17.1.2",
+    "@angular/common": "^17.1.2",
+    "@angular/compiler": "^17.1.2",
+    "@angular/core": "^17.1.2",
+    "@angular/forms": "^17.1.2",
+    "@angular/platform-browser": "^17.1.2",
+    "@angular/platform-browser-dynamic": "^17.1.2",
+    "@angular/router": "^17.1.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.6.2",
-    "zone.js": "^0.14.2"
+    "zone.js": "^0.14.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^17.0.7",
-    "@angular/cli": "~17.0.7",
-    "@angular/compiler-cli": "^17.0.7",
+    "@angular-devkit/build-angular": "^17.1.2",
+    "@angular/cli": "~17.1.2",
+    "@angular/compiler-cli": "^17.1.2",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.10",
     "@types/jasmine": "~5.1.0",
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.17",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
@@ -43,9 +43,9 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "postcss": "^8.4.32",
-    "prettier": "^3.1.1",
-    "prettier-plugin-tailwindcss": "^0.5.9",
-    "tailwindcss": "^3.4.0",
+    "prettier": "^3.2.4",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.1",
     "typescript": "~5.2.2"
   }
 }
