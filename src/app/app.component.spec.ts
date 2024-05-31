@@ -25,7 +25,7 @@ describe('AppComponent', () => {
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
     expect(compiled.querySelector('h1')?.textContent).toContain(
-      'Build amazing web apps and websites that your users will love using',
+      'Build super modern web applications and websites really fast',
     );
   });
 });
