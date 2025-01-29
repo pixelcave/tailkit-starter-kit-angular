@@ -11,9 +11,9 @@ Development: ng serve
 Production: ng build
 ```
 
-# TailkitStarterKitAngular
+# Tailkit Starter Kit Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.1.
 
 ## Development server
 
